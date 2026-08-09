@@ -1,0 +1,13 @@
+"زمین‌نما — لوگو مینیمال (سیاه)"
+
+<!-- Simple minimal SVG logo: stylized Z inside a 3D-ish square with contour lines -->
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 200 200">
+  <rect x="10" y="30" width="180" height="140" rx="8" fill="#0B0B0B" />
+  <g fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 60 C70 50, 130 50, 160 60" opacity="0.6"/>
+    <path d="M40 88 C80 78, 120 78, 160 88" opacity="0.6"/>
+    <path d="M40 116 C75 106, 125 106, 160 116" opacity="0.6"/>
+    <!-- Stylized Z (Persian ز shape simplified) -->
+    <path d="M60 140 L100 60 L140 140" stroke="#D4AF37" stroke-width="6" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>
